@@ -1,7 +1,7 @@
 [
   {
-    "question": "Flutter ямар програмчлалын хэл дээр бичигддэг вэ?",
-    "options": ["Java", "Dart", "Swift", "Kotlin"],
+    "question": "Ene ymar amitan be?",
+    "img-url": "https://th-thumbnailer.cdn-si-edu.com/bgmkh2ypz03IkiRR50I-UMaqUQc=/1000x750/filters:no_upscale():focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/55/95/55958815-3a8a-4032-ac7a-ff8c8ec8898a/gettyimages-1067956982.jpg,
     "answer": "Dart"
   },
   {
@@ -9,35 +9,18 @@
     "options": ["React Native", "SwiftUI", "Jetpack Compose", "Flutter"],
     "answer": "Flutter"
   },
-  {
-    "question": "Flutter-д StatefulWidget болон StatelessWidget хоёрын ялгаа юу вэ?",
-    "options": [
-      "StatefulWidget-д төлөв өөрчлөгдөхгүй",
-      "StatelessWidget-д төлөв өөрчлөгдөхгүй",
-      "StatefulWidget-д төлөв хадгалагддаггүй",
-      "StatelessWidget нь setState() ашигладаг"
-    ],
-    "answer": "StatelessWidget-д төлөв өөрчлөгдөхгүй"
+{
+    "question": "Flutter ямар UI framework вэ?",
+    "options": ["React Native", "SwiftUI", "Jetpack Compose", "Flutter"],
+    "answer": "Flutter"
+  }, 
+{
+    "question": "Flutter ямар UI framework вэ?",
+    "options": ["React Native", "SwiftUI", "Jetpack Compose", "Flutter"],
+    "answer": "Flutter"
   },
-  {
-    "question": "Монгол улс ямар тивд байдаг вэ?",
-    "options": [
-      "Ази",
-      "Америк",
-      "Европ",
-      "Африк"
-    ],
-    "answer": "Ази"
+{
+    "question": "Flutter ямар UI framework вэ?",
+    "options": ["React Native", "SwiftUI", "Jetpack Compose", "Flutter"],
+    "answer": "Flutter"
   },
-  {
-    "question": "Герман улс ямар тивд байдаг вэ?",
-    "options": [
-      "Ази",
-      "Америк",
-      "Европ",
-      "Африк"
-    ],
-    "answer": "Европ"
-  }
-  
-]
