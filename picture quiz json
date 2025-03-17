@@ -2,25 +2,30 @@
   {
     "question": "Энэ ямар амьтан бэ?",
     "img-url": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_3x2.jpg",
+    "options": ["Муур", "Нохой", "Киви", "Үнэг", "Чоно"],
     "answer": "Муур"
   },
   {
     "question": "Энэ ямар амьтан бэ?",
     "img-url": "https://maymont.org/wp-content/uploads/2020/04/banner-red-fox.jpg",
+    "options": ["Муур", "Нохой", "Киви", "Үнэг", "Чоно"],
     "answer": "Үнэг"
   },
 {
     "question": "Энэ ямар амьтан бэ?",
     "img-url": "https://money.com/wp-content/uploads/2024/03/Best-Small-Dog-Breeds-Pomeranian.jpg?quality=60",
+    "options": ["Муур", "Нохой", "Киви", "Үнэг", "Чоно"],
     "answer": "Нохой"
   }, 
 {
     "question": "Энэ ямар амьтан бэ?",
     "img-url": "https://nationalzoo.si.edu/sites/default/files/animals/northislandbrownkiwi-001.jpg",
+    "options": ["Муур", "Нохой", "Киви", "Үнэг", "Чоно"], 
     "answer": "Киви"
   },
 {
     "question": "Энэ ямар амьтан бэ?",
     "img-url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Eurasian_wolf_2.jpg",
+    "options": ["Муур", "Нохой", "Киви", "Үнэг", "Чоно"],
     "answer": "Чоно"
   },
