@@ -1,26 +1,26 @@
 [
   {
-    "question": "Ene ymar amitan be?",
-    "img-url": "https://th-thumbnailer.cdn-si-edu.com/bgmkh2ypz03IkiRR50I-UMaqUQc=/1000x750/filters:no_upscale():focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/55/95/55958815-3a8a-4032-ac7a-ff8c8ec8898a/gettyimages-1067956982.jpg,
-    "answer": "Dart"
+    "question": "Энэ ямар амьтан бэ?",
+    "img-url": "https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_3x2.jpg",
+    "answer": "Муур"
   },
   {
-    "question": "Flutter ямар UI framework вэ?",
-    "options": ["React Native", "SwiftUI", "Jetpack Compose", "Flutter"],
-    "answer": "Flutter"
+    "question": "Энэ ямар амьтан бэ?",
+    "img-url": "https://maymont.org/wp-content/uploads/2020/04/banner-red-fox.jpg",
+    "answer": "Үнэг"
   },
 {
-    "question": "Flutter ямар UI framework вэ?",
-    "options": ["React Native", "SwiftUI", "Jetpack Compose", "Flutter"],
-    "answer": "Flutter"
+    "question": "Энэ ямар амьтан бэ?",
+    "img-url": "https://money.com/wp-content/uploads/2024/03/Best-Small-Dog-Breeds-Pomeranian.jpg?quality=60",
+    "answer": "Нохой"
   }, 
 {
-    "question": "Flutter ямар UI framework вэ?",
-    "options": ["React Native", "SwiftUI", "Jetpack Compose", "Flutter"],
-    "answer": "Flutter"
+    "question": "Энэ ямар амьтан бэ?",
+    "img-url": "https://nationalzoo.si.edu/sites/default/files/animals/northislandbrownkiwi-001.jpg",
+    "answer": "Киви"
   },
 {
-    "question": "Flutter ямар UI framework вэ?",
-    "options": ["React Native", "SwiftUI", "Jetpack Compose", "Flutter"],
-    "answer": "Flutter"
+    "question": "Энэ ямар амьтан бэ?",
+    "img-url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Eurasian_wolf_2.jpg",
+    "answer": "Чоно"
   },
